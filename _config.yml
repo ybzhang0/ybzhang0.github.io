@@ -28,7 +28,7 @@ author:
   location         : "Hebei, China"
   employer         : "Hebei Normal University"
   uri              : # URL
-  email            : "ybzhang@hebtu.edu.cn" 
+  email            : # "ybzhang@hebtu.edu.cn" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/math?query=Zhang%2C+Yanbo&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
