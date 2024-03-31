@@ -52,12 +52,3 @@ Ramsey理论，极值图论
 2021-2022学年河北师范大学本科教学质量优秀奖
 
 2022-2023学年河北师范大学本科教学质量优秀奖
-
-
-论文发表
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
