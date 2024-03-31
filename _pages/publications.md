@@ -21,7 +21,7 @@ author_profile: true
 
 Preprints
 ======
-河北师范大学
+Preprints
 
 
 Publications
