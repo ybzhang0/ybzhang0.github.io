@@ -31,12 +31,6 @@ Ramsey理论，极值图论
 ======
 《高等代数》、《图论》、《Ramsey理论》、《概率方法》等。
 
-论文发表
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 部分荣誉：
 ======
 2016年度长三角地区运筹学与控制论学术论坛优秀论文一等奖
@@ -54,3 +48,11 @@ Ramsey理论，极值图论
 2021-2022学年河北师范大学本科教学质量优秀奖
 
 2022-2023学年河北师范大学本科教学质量优秀奖
+
+论文发表
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
