@@ -10,25 +10,20 @@ author_profile: true
 {% endfor %}-->
     
 {% if site.author.googlescholar %}
-
+<p><div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div></p>
 {% endif %}
 
+{% include base_path %}
 
 
 Preprints
 ======
-<div class="wordwrap">You can also find my articlesthe priprints on <a href="{{site.author.arxiv}}">my arXiv</a>.</div>
-
-{% include base_path %}
 
 Preprints
 
 
 Publications
 ======
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-
-{% include base_path %}
 
 The Ramsey number of a long even cycle versus a star, <br>with P. Allen, T. Luczak and J. Polcyn, J. Combin. Theory Ser. B, 162 (2023), 144–153.
 
