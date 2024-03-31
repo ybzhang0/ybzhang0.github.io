@@ -44,6 +44,6 @@ All complete graph-wheel planar Ramsey numbers, <br>with Y. Chen and G. Zhou, Gr
 
 Three results on cycle-wheel Ramsey numbers, <br>with H. Broersma and Y. Chen, Graphs Combin. 31 (2015), 2467–2479.
 
-Ramsey numbers of trees versus fans, <br>with H. Broersma and Y. Chen, Discrete Math. 338(2015), 994–999.
+Ramsey numbers of trees versus fans, <br>with H. Broersma and Y. Chen, Discrete Math. 338 (2015), 994–999.
 
 The Ramsey numbers of wheels versus odd cycles, <br>with Y. Chen and Y. Zhang, Discrete Math. 323 (2014), 76–80.
