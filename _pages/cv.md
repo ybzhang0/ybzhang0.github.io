@@ -11,7 +11,7 @@ redirect_from:
 
 个人简介
 ======
-数学科学学院副教授，硕士研究生导师。西北工业大学本科，南京大学硕博连读，荷兰特文特大学联合培养，波兰密茨凯维奇大学访问学者，曾任教中南大学和西安交大附中。研究方向为图论及其应用，主持和主研国家自然科学基金三项，在 JCTB 等杂志发表论文近二十篇。
+河北师范大学数学科学学院副教授，硕士研究生导师。西北工业大学本科，南京大学硕博连读，荷兰特文特大学联合培养，波兰密茨凯维奇大学访问学者，曾任教中南大学和西安交大附中。研究方向为图论及其应用，主持和主研国家自然科学基金三项，在 JCTB 等杂志发表论文近二十篇。
 
 研究兴趣
 ======
@@ -27,33 +27,30 @@ Ramsey理论，极值图论
 
 2020.01-2020.11，波兰密茨凯维奇大学，访问学者
 
-Skills
+主讲课程
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+《高等代数》、《图论》、《Ramsey理论》、《概率方法》等。
 
-Publications
+论文发表
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+部分荣誉：
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2016年度长三角地区运筹学与控制论学术论坛优秀论文一等奖
+
+2017年度河北省高等学校青年教师数学教学竞赛特等奖
+
+2018年度河北师范大学校级先进工作者
+
+2018年第26期顶岗支教优秀驻县教师
+
+2016-2017学年河北师范大学本科教学质量优秀奖
+
+2018-2019学年河北师范大学本科教学质量优秀奖
+
+2021-2022学年河北师范大学本科教学质量优秀奖
+
+2022-2023学年河北师范大学本科教学质量优秀奖
