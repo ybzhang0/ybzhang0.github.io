@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+个人简介
+======
+数学科学学院副教授，硕士研究生导师。西北工业大学本科，南京大学硕博连读，荷兰特文特大学联合培养，波兰密茨凯维奇大学访问学者，曾任教中南大学和西安交大附中。研究方向为图论及其应用，主持和主研国家自然科学基金三项，在 JCTB 等杂志发表论文近二十篇。
 
 Education
 ======
