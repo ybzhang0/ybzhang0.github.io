@@ -25,7 +25,8 @@ Ramsey theory videos for beginners
 * Mathemaniac: [Why does R(4,4)=18?](https://youtu.be/8de4pXIPI8w?si=NQ6FpCHEK_0jdJ1O)
 * Shahriar Shahriari: [Ramsey Numbers](https://youtube.com/playlist?list=PLpcU2wNhmPYcAcsvebUBh28XeEt0Y4WyH&si=zwPWqm1XAhgQ4Wco)
 
-Ramsey theory course in 2024
+Ramsey theory courses
 ======
 
+* Robert Morris: [Ramsey theory and random graphs]([https://n.ethz.ch/~ywigderson/math/teaching/](https://youtube.com/playlist?list=PLo4jXE-LdDTTUDYMaYoWD0Z3ltOQ_XIoc&si=QroJOeWoHUjXLuIl))
 * Yuval Wigderson: [Ramsey theory](https://n.ethz.ch/~ywigderson/math/teaching/)
