@@ -19,13 +19,13 @@ author_profile: true
 Preprints
 ======
 
-Ramsey goodness of fans, <br>with Y. Chen, arXiv Preprint, arXiv:2310.13204, (2023).
+Ramsey goodness of fans, <br>with Y. Chen, arXiv preprint, arXiv:2310.13204, (2023).
 
-Proof of a conjecture on online Ramsey numbers of paths, <br>with Y. Zhang, arXiv Preprint, arXiv:2302.13640, (2023).
+Proof of a conjecture on online Ramsey numbers of paths, <br>with Y. Zhang, arXiv preprint, arXiv:2302.13640, (2023).
 
-Proof of a conjecture on online Ramsey numbers of stars versus paths, <br>with R. Song and S. Wang, arXiv Preprint, arXiv:2302.08787, (2023).
+Proof of a conjecture on online Ramsey numbers of stars versus paths, <br>with R. Song and S. Wang, arXiv preprint, arXiv:2302.08787, (2023).
 
-Connected size Ramsey numbers of matchings versus a small path or cycle, <br>with S. Wang, R. Song and Y. Zhang, arXiv Preprint, arXiv:2205.03965, (2022).
+Connected size Ramsey numbers of matchings versus a small path or cycle, <br>with S. Wang, R. Song and Y. Zhang, arXiv preprint, arXiv:2205.03965, (2022).
 
 Publications
 ======
