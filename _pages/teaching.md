@@ -9,7 +9,9 @@ author_profile: true
 高等代数
 ======
 
-待完善……
+微课推荐：[乐乐老师的网络课堂](https://space.bilibili.com/410570125/video)
+
+其他内容待完善……
 
 Graph theory
 ======
