@@ -17,6 +17,9 @@ main:
     
   - title: "中文主页"
     url: /Chinese/
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/ 
     
   #- title: "Guide"
   #  url: /markdown/
