@@ -25,7 +25,7 @@ Preprints
 Publications
 ======
 
-The Ramsey number of a long even cycle versus a star, <br>with P. Allen, T. Luczak and J. Polcyn, J. Combin. Theory Ser. B, 162 (2023), 144–153.
+The Ramsey number of a long even cycle versus a star, <br>with P. Allen, T. Luczak and J. Polcyn, _J. Combin. Theory Ser. B_, 162 (2023), 144–153.
 
 Quadrilateral-tree planar Ramsey numbers, <br>with X. Hu and Y. Zhang, Bull. Aust. Math. Soc. 97 (2018), 194–199.
 
