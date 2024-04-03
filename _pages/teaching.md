@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-## Career advice
+## For starters
 
 * [Béla Bollobás' advice](../assets/Bollobas.pdf)
 * [Fan Chung's advice](https://mathweb.ucsd.edu/~fan/teach/gradpol.html)
