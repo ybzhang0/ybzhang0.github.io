@@ -55,4 +55,10 @@ Three results on cycle-wheel Ramsey numbers, <br>with H. Broersma and Y. Chen, _
 
 Ramsey numbers of trees versus fans, <br>with H. Broersma and Y. Chen, _Discrete Math._ 338 (2015), 994--999.
 
+A remark on star-C4 and wheel-C4 Ramsey numbers, <br>with H. Broersma and Y. Chen, _Electron. J. Graph Theory Appl._ 2(2) (2014), 110--114.
+
+The Ramsey numbers of fans versus a complete graph of order five, <br>with Y. Chen, _Electron. J. Graph Theory Appl._ 2(1) (2014), 66--69.
+
 The Ramsey numbers of wheels versus odd cycles, <br>with Y. Chen and Y. Zhang, _Discrete Math._ 323 (2014), 76--80.
+
+Ramsey numbers for 7-cycle versus wheels with small order, <br>with Y. Zhang and S. Zhu, _J. Nanjing Univ. (Mathematical Biquarterly)_ 30(1) (2013), 48--55.
