@@ -6,14 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
-Career advice
+高等代数
 ======
 
-* [Béla Bollobás' advice](../assets/Bollobas.pdf)
-* [Fan Chung's advice](https://mathweb.ucsd.edu/~fan/teach/gradpol.html)
-* [Terence Tao's advice](https://terrytao.wordpress.com/career-advice/)
+待完善……
 
-Ramsey theory course in 2024
+Graph theory
 ======
 
-* Yuval Wigderson: [Ramsey theory](https://n.ethz.ch/~ywigderson/math/teaching/)
+Slides to be added.
