@@ -14,6 +14,6 @@ author_profile: true
 Graph theory
 ======
 
-* Lecture 1 [Basic notions (1)](../assets/Lecture 1.pdf)
+* Lecture 1 [Basic notions (1)](../assets/01.pdf)
 * Lecture 2 [Basic notions (2)](../assets/Lecture 2.pdf)
 * Lecture 3 [Graph parameters and trees](../assets/Lecture 3.pdf)
