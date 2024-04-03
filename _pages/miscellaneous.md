@@ -28,5 +28,5 @@ Ramsey theory videos for beginners
 Ramsey theory courses
 ======
 
-* Robert Morris: [Ramsey theory and random graphs]([https://n.ethz.ch/~ywigderson/math/teaching/](https://youtube.com/playlist?list=PLo4jXE-LdDTTUDYMaYoWD0Z3ltOQ_XIoc&si=QroJOeWoHUjXLuIl))
+* Robert Morris: [Ramsey theory and random graphs](https://youtube.com/playlist?list=PLo4jXE-LdDTTUDYMaYoWD0Z3ltOQ_XIoc&si=QroJOeWoHUjXLuIl)
 * Yuval Wigderson: [Ramsey theory](https://n.ethz.ch/~ywigderson/math/teaching/)
