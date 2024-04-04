@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Yanbo Zhang (张闫博)"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Yanbo Zhang (张闫博)
+======
 
 I am an associate professor at the School of Mathematical Sciences at Hebei Normal University, China. My research interests focus on Ramsey theory and extremal graph theory.
 
