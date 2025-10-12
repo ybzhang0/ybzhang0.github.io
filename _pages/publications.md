@@ -10,7 +10,7 @@ author_profile: true
 {% endfor %}-->
     
 {% if site.author.googlescholar %}
-<p><div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div></p>
+<p><div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar profile</a>.</div></p>
 {% endif %}
 
 {% include base_path %}
