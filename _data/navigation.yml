@@ -1,13 +1,13 @@
 # main links links
-main:
-  - title: "Publications"
-    url: /publications/
+#main:
+  #- title: "Publications"
+  #  url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching/教学"
-    url: /teaching/    
+  #- title: "Teaching/教学"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "中文主页"
-    url: /Chinese/
+  #- title: "中文主页"
+  #  url: /Chinese/
 
   - title: "Miscellaneous"
     url: /miscellaneous/ 
