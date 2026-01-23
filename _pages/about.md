@@ -36,7 +36,7 @@ Papers in 2025
 ======
 
 1. **Online Ramsey numbers of $K_{1,3}$ versus paths**, <br>with Ruyu Song and Sha Wang, <br>_Discrete Applied Mathematics_ 377 (2025), 218–224.
-2. **Ramsey goodness of stars and fans for the Hajós graph**, <br>with Jiafu He and Haiyu Zeng, <br>_Discrete Mathematics & Theoretical Computer Science_ 27(3) (2025), Art. no. 15817.
+2. **Ramsey goodness of stars and fans for the Hajós graph**, <br>with Jiafu He and Haiyu Zeng, <br>_Discrete Mathematics & Theoretical Computer Science_ 27(3) (2025), Art. no. 11.
 3. **Weakened size Gallai-Ramsey numbers for $K_5$**, <br>with Ze Wang, <br>_Bulletin of the Iranian Mathematical Society_ 51 (2025), Art. no. 72.
 4. **Ramsey numbers of cycles versus multiple wheels**, <br>with Zhaofa Wang, <br>_Filomat_ 39(33) (2025), 11961–11967.
 5. **Matching-star size Ramsey numbers under connectivity constraint**, <br>with Fanghua Guo and Yunqing Zhang, <br>_Journal of Combinatorial Mathematics and Combinatorial Computing_ 126 (2025), 93–100.
