@@ -24,10 +24,11 @@ author:
   avatar           : "Yanbo.png"
   name             : "Yanbo Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "  Associate Professor
-                        Research interests:
-                        Ramsey theory
-                        Graph theory"
+bio: |
+  Associate Professor
+  Research interests:
+  Ramsey theory
+  Graph theory
   location         : "Shijiazhuang, Hebei, China"
   employer         : "Hebei Normal University"
   uri              : # URL
