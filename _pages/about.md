@@ -61,7 +61,7 @@ Earlier papers
 13. **All complete graph-wheel planar Ramsey numbers**, <br>with Yaojun Chen and Guofei Zhou, <br>_Graphs and Combinatorics_ 31 (2015), 2459–2465.
 14. **Three results on cycle-wheel Ramsey numbers**, <br>with Hajo Broersma and Yaojun Chen, <br>_Graphs and Combinatorics_ 31 (2015), 2467–2479.
 15. **Ramsey numbers of trees versus fans**, <br>with Hajo Broersma and Yaojun Chen, <br>_Discrete Mathematics_ 338 (2015), 994–999.
-16. **A remark on star-\(C_4\) and wheel-\(C_4\) Ramsey numbers**, <br>with Hajo Broersma and Yaojun Chen, <br>_Electronic Journal of Graph Theory and Applications_ 2(2) (2014), 110–114.
+16. **A remark on star-$C_4$ and wheel-$C_4$ Ramsey numbers**, <br>with Hajo Broersma and Yaojun Chen, <br>_Electronic Journal of Graph Theory and Applications_ 2(2) (2014), 110–114.
 17. **The Ramsey numbers of fans versus a complete graph of order five**, <br>with Yaojun Chen, <br>_Electronic Journal of Graph Theory and Applications_ 2(1) (2014), 66–69.
 18. **The Ramsey numbers of wheels versus odd cycles**, <br>with Yaojun Chen and Yunqing Zhang, <br>_Discrete Mathematics_ 323 (2014), 76–80.
 19. **Ramsey numbers for 7-cycle versus wheels with small order**, <br>with Yunqing Zhang and Shiping Zhu, <br>_Journal of Nanjing University (Mathematical Biquarterly)_ 30(1) (2013), 48–55.
