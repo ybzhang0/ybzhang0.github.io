@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yanbo.png"
+  avatar           : "Yanbo.jpg"
   name             : "张闫博"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor<br>Research interests:<br><span style='color:#0055aa; font-weight:bold;'>Ramsey theory</span><br><span style='color:#0055aa; font-weight:bold;'>Extremal graph theory</span><br>email: ybzhang(at)hebtu.edu.cn"
