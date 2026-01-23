@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanbo Zhang - Ramsey theory"
+title                    : "Yanbo Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yanbo Zhang"
+description              : &description "Yanbo Zhang is an Associate Professor at Hebei Normal University. Research: graph theory, Ramsey theory, extremal combinatorics."
 url                      : https://ybzhang0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
