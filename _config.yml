@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanbo's website"
+title                    : "Yanbo Zhang - Ramsey theory"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
