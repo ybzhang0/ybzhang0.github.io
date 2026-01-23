@@ -14,7 +14,7 @@ I am an associate professor at the School of Mathematical Sciences, Hebei Normal
 
 I completed my undergraduate studies at Northwestern Polytechnical University. Both my master's and Ph.D. studies were conducted at Nanjing University under the guidance of Professor Yaojun Chen. Meanwhile, my Ph.D. studies also took place at the University of Twente (The Netherlands), where I was advised by Professor Hajo Broersma.
 
-Feel free to contact me at ybzhang(at)hebtu.edu.cn
+Feel free to contact me at ybzhang(at)hebtu.edu.cn, and I am happy to serve as a reviewer for manuscripts in Ramsey theory and graph theory.
 
 Papers accepted
 ======
@@ -67,3 +67,25 @@ with Mark Budden and Matthew Stender, <br>_Integers_ 17 (2017), Art. no. A23.
 18. **The Ramsey numbers of fans versus a complete graph of order five**, <br>with Yaojun Chen, <br>_Electronic Journal of Graph Theory and Applications_ 2(1) (2014), 66–69.
 19. **The Ramsey numbers of wheels versus odd cycles**, <br>with Yaojun Chen and Yunqing Zhang, <br>_Discrete Mathematics_ 323 (2014), 76–80.
 20. **Ramsey numbers for 7-cycle versus wheels with small order**, <br>with Yunqing Zhang and Shiping Zhu, <br>_Journal of Nanjing University (Mathematical Biquarterly)_ 30(1) (2013), 48–55.
+
+Ph.D. Students
+======
+- Hexuan Zhi (expected 2028)
+- Jiafu He (expected 2029)
+
+Master’s Students
+======
+- Ruyu Song (graduated 2023)
+- Sha Wang (graduated 2023)
+- Yixin Zhang (graduated 2023)
+- Fanghua Guo (graduated 2024)
+- Yufan Li (graduated 2024)
+- Ze Wang (graduated 2025)
+- Haiyu Zeng (graduated 2025)
+- Xiaohua Feng (expected 2026)
+- Yuehua Zeng (expected 2026)
+- Xiaoqian Sun (expected 2027)
+- Yang Sun (expected 2027)
+- Zhaofa Wang (expected 2027)
+
+
