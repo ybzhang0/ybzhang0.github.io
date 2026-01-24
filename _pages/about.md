@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Yanbo Zhang"  # ← 页面上可见的标题
+seo_title: "Yanbo Zhang | Ramsey Theory | Hebei Normal University"  # ← 浏览器标签 & Google
 author_profile: true
 redirect_from: 
   - /about/
