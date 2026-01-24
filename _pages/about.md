@@ -1,5 +1,6 @@
 
 ---
+layout: about
 permalink: /
 title: ""
 author_profile: true
