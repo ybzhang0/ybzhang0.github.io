@@ -18,6 +18,8 @@ I completed my undergraduate studies at Northwestern Polytechnical University. B
 
 Feel free to contact me at ybzhang(at)hebtu.edu.cn, and I am happy to serve as a reviewer for manuscripts in Ramsey theory and extremal graph theory.
 
+[<span style="color:#1a73e8">Google Scholar</span>](https://ybzhang0.github.io/link/scholar.html)
+
 Papers accepted
 ======
 
