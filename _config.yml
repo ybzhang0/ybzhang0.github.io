@@ -32,7 +32,7 @@ ORCID: 0000-0002-0630-7498<br>MathSciNet: 1047427"
   email            : # ybzhang(at)hebtu.edu.cn
 
   # Academic websites
-  arxiv            : # "https://arxiv.org/search/math?query=Zhang%2C+Yanbo&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+  arxiv            :  "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Zhang%2C+Yanbo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
   googlescholar    : # "https://scholar.google.com/citations?user=I7Rvt5oAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/0000-0002-0630-7498"
