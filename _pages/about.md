@@ -1,13 +1,14 @@
 ---
 layout: about
 permalink: /
-title: "Yanbo Zhang"
+title: ""
 seo_title: "Yanbo Zhang | Ramsey Theory | Hebei Normal University"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
 
 About me
 ======
