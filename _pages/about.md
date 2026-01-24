@@ -16,10 +16,9 @@ I completed my undergraduate studies at Northwestern Polytechnical University. B
 
 Feel free to contact me at ybzhang(at)hebtu.edu.cn, and I am happy to serve as a reviewer for manuscripts in Ramsey theory and extremal graph theory.
 
-Google Scholar Profile:
-<a href="https://scholar.google.com/citations?user=I7Rvt5oAAAAJ">
-Google Scholar profile
-</a>
+Google Scholar: [I7Rvt5oAAAAJ](https://scholar.google.com/citations?user=I7Rvt5oAAAAJ)  
+ORCID: [0000-0002-0630-7498](https://orcid.org/0000-0002-0630-7498)  
+MathSciNet (MR): [1047427](https://mathscinet.ams.org/mathscinet/author?authorId=1047427)
 
 Papers accepted
 ======
