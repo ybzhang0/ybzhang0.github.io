@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanbo Zhang | Ramsey Theory | Hebei Normal University"
+title                    : "Yanbo Zhang"
 title_separator          : "-"
 name                     : &name "Yanbo Zhang"
 description              : &description "Yanbo Zhang is an Associate Professor at Hebei Normal University. Research: graph theory, Ramsey theory, extremal combinatorics."
