@@ -21,7 +21,8 @@ Feel free to contact me at ybzhang(at)hebtu.edu.cn, and I am happy to serve as a
 Papers Published Online
 ======
 
-1. **Turán problems for suspension of a balanced tree**, <br>with Xiaolin Wang, Fangfang Zhang, and Xiutao Zhu <br>_Journal of Graph Theory_, DOI:10.1002/jgt.70053.
+1. **Turán problems for suspension of a balanced tree**, <br>with Xiaolin Wang, Fangfang Zhang, and Xiutao Zhu, <br>_Journal of Graph Theory_, DOI:10.1002/jgt.70053.
+2. **Some star-critical connected Ramsey numbers**, <br>with Xiaoqian Sun, <br>_Transactions on Combinatorics_, DOI:10.22108/toc.2026.144868.2264.
 
 Papers in 2026
 ======
