@@ -30,10 +30,10 @@ Papers in 2026
 2. **Ramsey goodness of fans**, <br>with Yaojun Chen, <br>_Discrete Mathematics_ 349(2) (2026), Art. no. 114771.
 3. **On tree-wheel Ramsey numbers**, <br>with Yaojun Chen and Yunqing Zhang, <br>_Discrete Applied Mathematics_ 383 (2026), 80–84.
 4. **Ramsey numbers of trees versus generalized wheels**, <br>with Yaojun Chen and Yunqing Zhang, <br>_Discrete Mathematics_ 349(4) (2026), Art. no. 114938.
-5. **Ramsey numbers of cycles versus multiple odd wheels**, <br>with Zhaofa Wang, <br>_Bulletin of the Australian Mathematical Society_113(2) (2026), 194-202.
+5. **Ramsey numbers of cycles versus multiple odd wheels**, <br>with Zhaofa Wang, <br>_Bulletin of the Australian Mathematical Society_ 113(2) (2026), 194-202.
 6. **Star-critical Ramsey numbers of cycles revisited**, <br>with Yang Sun, <br>_Discussiones Mathematicae Graph Theory_ 46(1) (2026), 225–235.
 7. **Ramsey numbers of small wheels versus fans**, <br>with Haiyu Zeng and Feng Zhao, <br>_Bulletin of the Malaysian Mathematical Sciences Society_ 49(1) (2026), Art. no. 1.
-8. **Ramsey numbers of generalized fans versus multiple cliques**, <br>with Ze Wang, <br>_Applied Mathematics and Computation_522 (2026), Art. no. 129985.
+8. **Ramsey numbers of generalized fans versus multiple cliques**, <br>with Ze Wang, <br>_Applied Mathematics and Computation_ 522 (2026), Art. no. 129985.
 9. **The inverted weak Schur numbers**, <br>with Haiyu Zeng and Yuehua Zeng, <br>_Discrete Mathematics, Algorithms and Applications_ 18(1) (2026), Art. no. 2550024.
 
 Papers in 2025
