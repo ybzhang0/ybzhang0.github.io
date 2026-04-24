@@ -18,11 +18,10 @@ I completed my undergraduate studies at Northwestern Polytechnical University. B
 
 Feel free to contact me at ybzhang(at)hebtu.edu.cn, and I am happy to serve as a reviewer for manuscripts in Ramsey theory and extremal graph theory.
 
-Papers accepted
+Papers Published Online
 ======
 
-1. **Ramsey numbers of cycles versus multiple odd wheels**, <br>with Zhaofa Wang, <br>_Bulletin of the Australian Mathematical Society_, published online.
-2. **Ramsey numbers of generalized fans versus multiple cliques**, <br>with Ze Wang, <br>_Applied Mathematics and Computation_, accepted.
+1. **Turán problems for suspension of a balanced tree**, <br>with Xiaolin Wang, Fangfang Zhang, and Xiutao Zhu <br>_Journal of Graph Theory_, published online, [https://doi.org/10.1002/jgt.70053](https://doi.org/10.1002/jgt.70053).
 
 Papers in 2026
 ======
